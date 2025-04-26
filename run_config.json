@@ -1,0 +1,23 @@
+{
+  "PDK": "sky130A",
+  "PDKPATH": "/home/adi/Desktop/tools/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/lef",
+  "STD_CELL_LIBRARY": "sky130_fd_sc_hd",
+  "SCLPATH": "/home/adi/Desktop/tools/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/lef",
+  "DESIGN_DIR": "/openlane/designs/carryskip/src",
+  "DESIGN_NAME": "carryskip",
+  "VERILOG_FILES": [
+    "/openlane/designs/carryskip/src/carryskip.v",
+    "/openlane/designs/carryskip/src/carryskip4.v",
+    "/openlane/designs/carryskip/src/fulladder.v",
+    "/openlane/designs/carryskip/src/mux.v"],
+  "CLOCK_PORT": "",
+  "CORE_AREA": 600,
+  "DIE_AREA": 650,
+  "CLOCK_PERIOD": 10.0,
+  "FP_PDN_MULTILAYER": 1,
+
+  "PL_TARGET_DENSITY": 0.65,
+  "FP_CORE_UTIL": 45,
+  "SAVE_FINAL_REPORTS": 1,
+  "PL_ENABLE_CONGESTION_MAP": 1
+}
